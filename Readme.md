@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/ASPxPivotGrid_CustomFilterItemsSorting/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_CustomFilterItemsSorting/Default.aspx.vb))
 <!-- default file list end -->
 # How to sort filter drop-down items in a custom manner
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2747/)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to sort filter drop-down items in a custom manner.<br />
